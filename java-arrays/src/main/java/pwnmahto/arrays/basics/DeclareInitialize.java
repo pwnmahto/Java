@@ -23,6 +23,8 @@ public class DeclareInitialize {
 		}
 
 		int y[] = { 1, 2, 3, 4, 5, 6, 7, 8, 9 };// Array can be declared, instantiated and initialized together.
+		
+		//Use of Java For-Each Loop or Enhanced For Loop
 		for (int temp : y) {
 			System.out.println(temp);
 		}
