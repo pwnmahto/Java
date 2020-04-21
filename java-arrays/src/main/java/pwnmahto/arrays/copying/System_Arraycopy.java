@@ -1,11 +1,9 @@
 package pwnmahto.arrays.copying;
 
 /**
- * 
  * A program to demonstrate how to copy values from one array into another array
  * efficiently. The System class has an arraycopy method to perform copy
  * operation.
- * 
  */
 
 public class System_Arraycopy {

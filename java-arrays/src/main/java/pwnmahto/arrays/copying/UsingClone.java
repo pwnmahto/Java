@@ -1,11 +1,9 @@
 package pwnmahto.arrays.copying;
 
 /**
- * 
  * A program to demonstrate how to copy values from one array into another array
  * efficiently using Object Clone. Object cloning means to create an exact copy
  * of the original object.
- * 
  */
 
 public class UsingClone {

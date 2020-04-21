@@ -1,7 +1,6 @@
 package pwnmahto.arrays.copying;
 
 /**
- *
  * A program to copy one element from source array to destination array by
  * iterating each element of the source array at a time. Any modification to
  * either of the arrays will not affect the other one. Use "Arrays.copyOf",

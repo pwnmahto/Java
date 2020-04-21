@@ -3,7 +3,6 @@ package pwnmahto.arrays.copying;
 import java.util.Arrays;
 
 /**
- * 
  * The java.util.Arrays.copyOf(int[] original,int newLength) method copies the
  * specified array, truncating or padding with zeros (if necessary) so the copy
  * has the specified length.
@@ -11,7 +10,6 @@ import java.util.Arrays;
  * public static int[] copyOf(int[] original,int newLength) Parameters 1 :
  * original − This is the array to be copied & 2 : newLength − This is the
  * length of the copy to be returned.
- * 
  */
 
 public class Arrays_CopyOf {

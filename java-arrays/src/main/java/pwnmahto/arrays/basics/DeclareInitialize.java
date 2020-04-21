@@ -1,10 +1,8 @@
 package pwnmahto.arrays.basics;
 
 /**
- * 
  * A program to demonstrate how to declare, instantiate, and initialize an array
  * in Java.
- * 
  */
 
 public class DeclareInitialize {
