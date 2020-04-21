@@ -17,3 +17,8 @@
 	
 -   **Serialization and Deserialization in Java**
 	-	[Serialization Example](https://github.com/pwnmahto/Java/blob/7a7706d0f8871e99bdd6d571fcef2198211e142f/java-serialization/src/main/java/pwnmahto/serialization/basics/Student.java)
+	
+
+-   **Java Collections - ArrayList**
+	-	[ArrayList Example](https://github.com/pwnmahto/Java/blob/master/java-collections/src/main/java/pwnmahto/collections/arraylist/ArrayListExample.java)
+	-	[ArrayLisy Traversal](https://github.com/pwnmahto/Java/blob/master/java-collections/src/main/java/pwnmahto/collections/arraylist/TraverseArrayList.java)
