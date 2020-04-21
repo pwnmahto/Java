@@ -11,3 +11,6 @@
 -   **Java 8 Date Time API**
 	-	[Java LocalDate class](https://github.com/pwnmahto/Java/blob/146ecdd452a90b3bd5b8b5797deb843ec20b6d4f/java8-datetime/src/main/java/pwnmahto/datetime/basics/LocalDateExample.java)
 	-	[Java LocalTime class](https://github.com/pwnmahto/Java/blob/146ecdd452a90b3bd5b8b5797deb843ec20b6d4f/java8-datetime/src/main/java/pwnmahto/datetime/basics/LocalTimeExample.java)
+	
+-   **Serialization and Deserialization in Java**
+	-	[Serialization Example](https://github.com/pwnmahto/Java/blob/7a7706d0f8871e99bdd6d571fcef2198211e142f/java-serialization/src/main/java/pwnmahto/serialization/basics/Student.java)
