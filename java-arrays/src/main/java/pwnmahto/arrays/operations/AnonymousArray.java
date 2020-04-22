@@ -1,9 +1,7 @@
 package pwnmahto.arrays.operations;
 
 /**
- * 
  * A program to demonstrate how to pass an anonymous array to a method in Java.
- * 
  */
 
 public class AnonymousArray {

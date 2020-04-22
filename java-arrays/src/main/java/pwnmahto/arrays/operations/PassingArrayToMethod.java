@@ -1,9 +1,7 @@
 package pwnmahto.arrays.operations;
 
 /**
- * 
  * A program to demonstrate how to pass an array to a method in Java.
- * 
  */
 
 public class PassingArrayToMethod {
@@ -31,5 +29,5 @@ public class PassingArrayToMethod {
 		int numbers[] = { 23, 65, 21, 9, 78, 65 };// declaring and initializing an array
 		findMaxMin(numbers);// passing array to method
 	}
-	
+
 }
