@@ -9,14 +9,14 @@ package pwnmahto.serialization.basics;
 
 import java.io.Serializable;
 
-public class Student implements Serializable{
-	
+public class Student implements Serializable {
+
 	private int roll;
-	
+
 	private String name;
-	
+
 	private double marks;
-	
+
 	private String college;
 
 	public Student(int roll, String name, double marks, String college) {
@@ -25,8 +25,37 @@ public class Student implements Serializable{
 		this.marks = marks;
 		this.college = college;
 	}
-	
+
+	public int getRoll() {
+		return roll;
+	}
+
+	public void setRoll(int roll) {
+		this.roll = roll;
+	}
+
+	public String getName() {
+		return name;
+	}
+
+	public void setName(String name) {
+		this.name = name;
+	}
+
+	public double getMarks() {
+		return marks;
+	}
+
+	public void setMarks(double marks) {
+		this.marks = marks;
+	}
+
+	public String getCollege() {
+		return college;
+	}
+
+	public void setCollege(String college) {
+		this.college = college;
+	}
+
 }
-
-
-
