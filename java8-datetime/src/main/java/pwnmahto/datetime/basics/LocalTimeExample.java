@@ -3,7 +3,6 @@ package pwnmahto.datetime.basics;
 import java.time.LocalTime;
 
 /**
- * 
  * A program to demonstrate the use of Java 8 LocalTime API. Java LocalTime
  * class is an immutable class that represents time with a default format of
  * hour-minute-second. It inherits Object class and implements the Comparable
