@@ -3,12 +3,10 @@ package pwnmahto.datetime.basics;
 import java.time.LocalDate;
 
 /**
- * 
  * A program to demonstrate the use of Java 8 LocalDate API. Java LocalDate
  * class is an immutable class that represents Date with a default format of
  * yyyy-MM-dd. It inherits Object class and implements the ChronoLocalDate
  * interface
- * 
  */
 
 public class LocalDateExample {
