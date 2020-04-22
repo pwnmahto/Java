@@ -11,7 +11,7 @@ public class ArrayListExample {
 
 	public static void main(String[] args) {
 
-		List<String> list = new ArrayList<String>();// creating an ArrayList
+		List<String> list = new ArrayList<>();// creating an ArrayList
 		list.add("Apple");// Adding object in ArrayList
 		list.add("Ball");
 		list.add("Cat");
