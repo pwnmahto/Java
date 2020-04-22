@@ -17,11 +17,11 @@ public class TryCatchStatement {
 		} catch (ArithmeticException e) {
 			System.out.println("Exception occured.");
 			System.out.println(e);
-		}finally{
-			System.out.println("Finally block executed.");			
-		}    
+		} finally {
+			System.out.println("Finally block executed.");
+		}
 		// rest code of the program after catch block
-		System.out.println("Rest of the code is executed if Exception is handled in the catch block.");			
+		System.out.println("Rest of the code is executed if Exception is handled in the catch block.");
 	}
 
 }
