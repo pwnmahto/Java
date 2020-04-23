@@ -1,4 +1,4 @@
-package pwnmahto.collections;
+package collections;
 
 public class App {
 	public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package pwnmahto.collections.arraylist;
+package collections.list.arraylist;
 
 /**
  * ArrayList is a part of collection framework and is present in java.util package. It provides us dynamic arrays in Java.

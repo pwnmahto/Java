@@ -1,4 +1,4 @@
-package pwnmahto.collections.linkedlist;
+package collections.list.linkedlist;
 
 /**
  * Java LinkedList class uses a doubly linked list to store the elements. It provides a linked-list data structure.

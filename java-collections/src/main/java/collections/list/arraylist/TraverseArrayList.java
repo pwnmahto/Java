@@ -1,4 +1,4 @@
-package pwnmahto.collections.arraylist;
+package collections.list.arraylist;
 
 /**
  * A programs to demonstrate various ways of iteration of elements of ArrayLisy in Java.
@@ -23,7 +23,7 @@ public class TraverseArrayList {
 
 		// By Iterator interface
 		System.out.println("Traverse ArrayList elements using the Iterator interface : ");
-		Iterator itr = list.iterator();
+		Iterator<String> itr = list.iterator();
 		while (itr.hasNext()) {
 			System.out.println(itr.next());
 		}
