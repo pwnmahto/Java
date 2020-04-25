@@ -25,4 +25,4 @@
 
 -   **Java Collections - ArrayList**
 	-	[ArrayList Example](https://github.com/pwnmahto/Java/blob/master/java-collections/src/main/java/pwnmahto/collections/arraylist/ArrayListExample.java)
-	-	[ArrayLisy Traversal](https://github.com/pwnmahto/Java/blob/master/java-collections/src/main/java/pwnmahto/collections/arraylist/TraverseArrayList.java)
+	-	[ArrayList Traversal](https://github.com/pwnmahto/Java/blob/master/java-collections/src/main/java/pwnmahto/collections/arraylist/TraverseArrayList.java)
