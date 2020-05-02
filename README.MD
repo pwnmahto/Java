@@ -27,3 +27,5 @@
 	-	[ArrayList Example](https://github.com/pwnmahto/Java/blob/master/java-collections/src/main/java/pwnmahto/collections/arraylist/ArrayListExample.java)
 	-	[ArrayList Traversal](https://github.com/pwnmahto/Java/blob/master/java-collections/src/main/java/pwnmahto/collections/arraylist/TraverseArrayList.java)
 	-	[ArrayList Student Example](https://github.com/pwnmahto/Java/blob/master/java-collections/src/main/java/collections/list/arraylist/StudentExample.java)
+	- 	[Java Comparable Interface](https://github.com/pwnmahto/Java/tree/master/java-collections/src/main/java/collections/comparableinterface)
+	-	[Java Comparator Interface](https://github.com/pwnmahto/Java/tree/master/java-collections/src/main/java/collections/comparatorinterface)
