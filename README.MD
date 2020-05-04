@@ -22,7 +22,6 @@
 *   **Serialization and Deserialization in Java**
 	*	[Serialization Example](https://github.com/pwnmahto/Java/blob/7a7706d0f8871e99bdd6d571fcef2198211e142f/java-serialization/src/main/java/pwnmahto/serialization/basics/Student.java)
 	
-
 *   **Java Collections**
 	*	*List Interface*
 		*	[ArrayList Example](https://github.com/pwnmahto/Java/blob/master/java-collections/src/main/java/collections/list/arraylist/ArrayListExample.java)
@@ -33,3 +32,9 @@
 		*	[Java Comparator Interface](https://github.com/pwnmahto/Java/tree/master/java-collections/src/main/java/collections/comparatorinterface)
 	*	*Properties Class in Java*
 		*	[Java Properties Class](https://github.com/pwnmahto/Java/tree/master/java-collections/src/main/java/collections/propertiesclass)
+			
+*   **Java 8 Features**
+	*	*Java Lambda Expressions*
+		*	[Lambda Example](https://github.com/pwnmahto/Java/blob/master/java-lambda-expressions/src/main/java/lambda/expressions/basics/LambdaExample.java)
+		*	[No Parameter Example](https://github.com/pwnmahto/Java/blob/master/java-lambda-expressions/src/main/java/lambda/expressions/basics/NoParameterExample.java)
+		*	[Single Parameter Example](https://github.com/pwnmahto/Java/blob/master/java-lambda-expressions/src/main/java/lambda/expressions/basics/SingleParameterExample.java)
