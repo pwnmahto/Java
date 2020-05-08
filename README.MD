@@ -38,3 +38,7 @@
 		*	[Lambda Example](https://github.com/pwnmahto/Java/blob/master/java-lambda-expressions/src/main/java/lambda/expressions/basics/LambdaExample.java)
 		*	[No Parameter Example](https://github.com/pwnmahto/Java/blob/master/java-lambda-expressions/src/main/java/lambda/expressions/basics/NoParameterExample.java)
 		*	[Single Parameter Example](https://github.com/pwnmahto/Java/blob/master/java-lambda-expressions/src/main/java/lambda/expressions/basics/SingleParameterExample.java)
+		*	[Lambda Expression Return Statement](https://github.com/pwnmahto/Java/blob/master/java-lambda-expressions/src/main/java/lambda/expressions/basics/LambdaReturnExample.java)
+		*	[Lambda forEach Example](https://github.com/pwnmahto/Java/blob/master/java-lambda-expressions/src/main/java/lambda/expressions/basics/LambdaForeachLoop.java)
+		*	[Lambda Thread Creation](https://github.com/pwnmahto/Java/blob/master/java-lambda-expressions/src/main/java/lambda/expressions/basics/ThreadCreation.java)
+		*	[Lambda Comparator Interface](https://github.com/pwnmahto/Java/blob/master/java-lambda-expressions/src/main/java/lambda/expressions/basics/ComparatorExample.java)
